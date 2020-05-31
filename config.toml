@@ -4,8 +4,8 @@ theme = "arabica"
 title = "yahoodka blog"
 author = "Marek Bartík"
 paginate = 5
+googleAnalytics = "UA-42148466-1"
 
 [params]
     description = "cestování a studium"
     dateFormatToUse = "2006-01-02"
-    #replaceGoogleFonts = "fonts.loli.net"
