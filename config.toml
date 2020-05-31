@@ -1,0 +1,11 @@
+baseURL = "https://yahoodka.cz/"
+languageCode = "cs-cz"
+theme = "arabica"
+title = "yahoodka blog"
+author = "Marek Bartík"
+paginate = 5
+
+[params]
+    description = "cestování a studium"
+    dateFormatToUse = "2006-01-02"
+    #replaceGoogleFonts = "fonts.loli.net"

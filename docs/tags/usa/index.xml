@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>usa on yahoodka blog</title>
+    <link>https://yahoodka.cz/tags/usa/</link>
+    <description>Recent content in usa on yahoodka blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Sat, 15 Nov 2014 18:01:11 +0100</lastBuildDate>
+    
+	<atom:link href="https://yahoodka.cz/tags/usa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Výlet do USA</title>
+      <link>https://yahoodka.cz/vylet-do-usa/</link>
+      <pubDate>Sat, 15 Nov 2014 18:01:11 +0100</pubDate>
+      
+      <guid>https://yahoodka.cz/vylet-do-usa/</guid>
+      <description>Jelikož jsem v Kostarice tak trochu nelegálně, rozuměj – jako turista, bez víza, musím po 90 dnech opustit zemi minimálně na 72 hodin, abych se opět mohl vrátit na dalších 90 dní. Destinaci prvního výletu jsem zvolil USA, jelikož jsem ve státech nikdy nebyl a rád bych tam v budoucnu pracoval :) Měl jsem to štěstí, že Anča ve státech studovala a tak tam zná spoustu lidí u kterých jsme mohli pobýt a ukázali nám kousek svého kraje, svýma očima.</description>
+    </item>
+    
+  </channel>
+</rss>
